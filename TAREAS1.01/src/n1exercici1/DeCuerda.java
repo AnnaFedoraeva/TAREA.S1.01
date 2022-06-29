@@ -9,7 +9,7 @@ public class DeCuerda extends Instrumento {
 	}
 
 	static {
-		System.out.println("Bloque estático de la clase DeCuerda ");
+		System.out.println("Bloque static de la clase DeCuerda ");
 
 	}
 	{
